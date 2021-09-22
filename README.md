@@ -1,5 +1,5 @@
 # Sycole
-s
+
 Sycole is a jailbreaking tool for iOS that is currently under development. We plan to support iOS 14.0 - iOS 14.3. This jailbreak will be either a semi-untethered jailbreak or an untethered jailbreak.
 
 # Future Plans and Possibilities
