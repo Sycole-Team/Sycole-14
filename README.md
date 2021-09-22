@@ -14,6 +14,10 @@ We are unsure of when we will release Sycole V1. When we are further in the deve
 
 Will this be open source? We are not sure if we will make this project open source or not. More information will be provided about this as we get further in the development stage.
 
+# If we release a V2, what happens to V1.
+
+Even if V1 is not open source and yet we release a V2, we will most likely release the source of V1.
+
 # Discord Invite
 
 [Join the Discord Server](https://discord.gg/9KpxnSy6yE)
