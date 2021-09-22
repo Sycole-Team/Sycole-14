@@ -12,15 +12,15 @@ Jailbreak Stuff
 
 Razr/finley541
 
-[Sileo](getsileo.app) Stuff
+[Sileo](https://getsileo.app) Stuff
 
-[Amy](https://www.twitter.com/elihwyma)
-[CoolStar](https://www.twitter.com/CStar_OW)
-[Kabir Oberai](https://www.twitter.com/kabiroberai)
-[Alessandro Chiarlitti](https://www.twitter.com/aesign_)
-[Capt Inc](https://www.twitter.com/MrBeast)
-[Diatrus](https://www.twitter.com/Diatrus)
-[Skitty](https://www.twitter.com/Skittyblock)
-[Aarnav Tale](https://www.twitter.com/aarnavtale)
-[23 Aaron](https://www.twitter.com/23Aaron_)
-[SlimShadyIAm](https://www.twitter.com/slimshadydev)
+[Amy](https://www.twitter.com/elihwyma)\n
+[CoolStar](https://www.twitter.com/CStar_OW)\n
+[Kabir Oberai](https://www.twitter.com/kabiroberai)\n
+[Alessandro Chiarlitti](https://www.twitter.com/aesign_)\n
+[Capt Inc](https://www.twitter.com/MrBeast)\n
+[Diatrus](https://www.twitter.com/Diatrus)\n
+[Skitty](https://www.twitter.com/Skittyblock)\n
+[Aarnav Tale](https://www.twitter.com/aarnavtale)\n
+[23 Aaron](https://www.twitter.com/23Aaron_)\n
+[SlimShadyIAm](https://www.twitter.com/slimshadydev)\n
