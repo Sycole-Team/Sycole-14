@@ -6,6 +6,10 @@ Sycole is a jailbreaking tool for iOS that is currently under development. We pl
 
 It is possible that we may add support for all iOS 13 versions along with our iOS 14 support.
 
+# Release ETA
+
+We are unsure of when we will release Sycole V1. When we are further in the development stage, we will release more information about this.
+
 # Discord Invite
 
 [Join the Discord Server](https://discord.gg/9KpxnSy6yE)
