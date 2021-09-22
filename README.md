@@ -8,7 +8,7 @@ It is possible that we may add support for all iOS 13 versions along with our iO
 
 # Discord Invite
 
-[Discord Server Invite](https://discord.gg/9KpxnSy6yE)
+[Join the Discord Server](https://discord.gg/9KpxnSy6yE)
 
 # Credits
 
