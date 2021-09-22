@@ -10,10 +10,6 @@ It is possible that we may add support for all iOS 13 versions along with our iO
 
 We are unsure of when we will release Sycole V1. When we are further in the development stage, we will release more information about this.
 
-# Open Source
-
-Will this be open source? We are not sure if we will make this project open source or not. More information will be provided about this as we get further in the development stage.
-
 # Discord Invite
 
 [Join the Discord Server](https://discord.gg/9KpxnSy6yE)
