@@ -18,22 +18,22 @@ Razr/finley541
 
 [Sileo](https://getsileo.app) Stuff
 
-[Amy](https://www.twitter.com/elihwyma)
+[Amy](https://www.twitter.com/elihwyma) - Lead Maintainer
 
-[CoolStar](https://www.twitter.com/CStar_OW)
+[CoolStar](https://www.twitter.com/CStar_OW) - Founder
 
-[Kabir Oberai](https://www.twitter.com/kabiroberai)
+[Kabir Oberai](https://www.twitter.com/kabiroberai) - Founder
 
-[Alessandro Chiarlitti](https://www.twitter.com/aesign_)
+[Alessandro Chiarlitti](https://www.twitter.com/aesign_) - Designer
 
-[Capt Inc](https://www.twitter.com/MrBeast)
+[Capt Inc](https://www.twitter.com/MrBeast) - Developer
 
-[Diatrus](https://www.twitter.com/Diatrus)
+[Diatrus](https://www.twitter.com/Diatrus) - Developer
 
-[Skitty](https://www.twitter.com/Skittyblock)
+[Skitty](https://www.twitter.com/Skittyblock) - Developer
 
-[Aarnav Tale](https://www.twitter.com/aarnavtale)
+[Aarnav Tale](https://www.twitter.com/aarnavtale) - Notable Contributor
 
-[23 Aaron](https://www.twitter.com/23Aaron_)
+[23 Aaron](https://www.twitter.com/23Aaron_) - Site Maintainer
 
-[SlimShadyIAm](https://www.twitter.com/slimshadydev)
+[SlimShadyIAm](https://www.twitter.com/slimshadydev) - Site Maintainer
