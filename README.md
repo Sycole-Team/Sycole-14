@@ -18,6 +18,10 @@ Will this be open source? We are not sure if we will make this project open sour
 
 Even if V1 is not open source and yet we release a V2, we will most likely release the source of V1.
 
+# Contribution
+
+We are currently not looking for contributors.
+
 # Discord Invite
 
 [Join the Discord Server](https://discord.gg/9KpxnSy6yE)
