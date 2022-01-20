@@ -4,7 +4,7 @@ Sycole is a jailbreaking tool for iOS that is currently under development. We pl
 
 # Future Plans and Possibilities
 
-It is possible that we may add support for all iOS 13 versions along with our iOS 14 support. We also may add support for iOS 12 and iOS 11.
+Sycole may become open sourced but we are looking for the best license to use.
 
 # Release ETA
 
@@ -30,9 +30,15 @@ We are currently not looking for contributors.
 
 Jailbreak Stuff
 
+----------------
+
 Razr/finley541
 
+----------------
+
 [Sileo](https://getsileo.app) Stuff
+
+----------------
 
 [Amy](https://www.twitter.com/elihwyma) - Lead Maintainer
 
